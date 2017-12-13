@@ -2,7 +2,7 @@ print("Hello World")
 print("hello again")
 print("I like typing this.")
 print("this is fun.")
-print('Yay! Printing.')#为什么这里用单引号也能解释
+print('Yay! Printing.')#为什么这里用单引号也能run
 print("i'd much rather you 'not'.")
 print('I "said" do not touch this.')
 
