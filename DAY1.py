@@ -11,3 +11,5 @@ print("hello world")
 #print('hello world')
 
 print("Hello, Cross Sea.               How are you?          Nice to meet you.")
+print("Hello")
+print("World")
