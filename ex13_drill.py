@@ -26,7 +26,7 @@ from sys import argv
 A, B, C = argv
 
 print("Let me guess what the most valuable things are in your heart.")
-print("The 1st thing is:\t", A)   #这个问题很严重，这个A难道一定是文件名么？所以第一句都是文件名字，那这里应该把文件名改成money
+print("The 1st thing is:\t", A)   #这个问题很严重，这个A难道一定是文件名么？所以第一句都是文件名字，那我就不从你开始玩，我直接把这句删了！
 print("The 2nd thing is:\t", B)
 print("The 3rd thing is:\t", C)
 
