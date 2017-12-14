@@ -1,5 +1,4 @@
 # LPTHW
 52 exercises
 #这个repository姑且用来记录每天的学习进程吧。
-这个训练我学会了如何给一个变量命名。 How to name a variable.
-You can use underscore character _
+这个训练告诉我，在命名的过程中，如果出现了字母，即非数字和运算字符，需要用单引号，或双引号
