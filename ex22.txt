@@ -1,0 +1,34 @@
+print		put out sth on the screen， I think it is a function
+()		  parenthesis, when you want do write sth(arguments, strings, etc) which is not a command, you should use these to cover them
+""		  double-quotes, if they are strings, you should these
+''		  single-quotes, totally same as 双引号
+#		    symbol # ， after #, that's your comment, the Python will ignore them, and will help you to read your code better.
+1,2,3,4	numbers， you can do math with them
+,		    comma, two or more strings, or arguments, etc, you can use , to separate them
++ - * /	operations, do math
+=		    equal, which you can name some variable
+variable/you can use them to replace a string or a number or sth, so that you can easily to control your code
+_		    underscore character, when you name a variable, you can use it, a variable can only contains letters, numbers, and underscore character
+{}		  brace,it is kind of format, when you meet it, that means there is a variable
+string	word, phrase or a sentence, for now, I think anything you wanna print out is a string
+format	it's a special use, you can make a formatter, which is the coolest in my opnion, and do a really beautiful format. In another saying, it can make some code easier, such as reduce some repetition. What's more, we have two ways to use it, f-strings and .format().
+end = ''/a good way to make your "print out" in the same line
+""" """	/triple-quotes,which can lead a more-lines string
+\n		  linefeed
+\		    back-slash, escape sequences, some special use(function)
+\b		  backspace
+\f		  formfeed
+\n 		  linefeed
+\r		  return
+\t		  TAB
+\v		  vertical tab [all these are in page 65]
+input		if you want to get some information from users, you can use this fucntion
+import	you can get some "feature"s from Python, make your scripts easy to read
+argv 		argument variable, holds the arguments you pass to you Python script when you run it
+module	argon, script with features, library
+open		function, which can open a file, you can use pydoc to know more details
+read		function, read a file
+write		function, write sth into a file
+def 		define, you can make a new function with def
+:       colon, which can tell Python you are going to create a new "block" of code
+\t(four spaces) this will tell Python what lines of code are in the block
