@@ -1,0 +1,2 @@
+#有很多symbol，其实书中并没有很详细的讲symbol，都是说search online，所以，这里我没有逐个的去查询每一个symbol的意思
+#我准备先move on，在以后exercise中每碰到一个没有见过的symbol或是function就去网上查询就好了
